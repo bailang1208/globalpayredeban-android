@@ -11,7 +11,7 @@ public class Constants {
     public static String USER_EMAIL = "dev@paymentez.com";
 
     //Is Redeban SDK DEV environment?
-    public static boolean REDEBAN_IS_TEST_MODE = false;
+    public static boolean REDEBAN_IS_TEST_MODE = true;
 
     //Ask the Redeban team for it
     public static String REDEBAN_CLIENT_APP_CODE = "GPAY-CO-CLIENT";
